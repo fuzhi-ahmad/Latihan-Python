@@ -1,0 +1,6 @@
+print("=============================")
+print("Nama  : Ahmad Puji Wahyono")
+print("Nim   : 20230100098")
+print("MK    : Algoritma Pemrograman")
+print("Nim   : 20230100098 " *10)
+print("=============================")
